@@ -172,12 +172,7 @@ I'm always excited to connect with fellow developers, work on innovative project
 
 <div align="center">
   
-  ### 💬 Reach Out
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white
-  
+ 
   <br>
   
   **💡 Open to opportunities | 🚀 Available for collaborations | 🎯 Ready for hackathons**
@@ -197,11 +192,3 @@ I'm always excited to connect with fellow developers, work on innovative project
 </div>
 
 ***
-
-**Remember to replace:**
-- `gangasingh007` with your actual GitHub username
-- `YOUR_LINKEDIN_URL` with your LinkedIn profile
-- `gangasingh1734@gmail.com` with your email address
-- `YOUR_TWITTER_URL` with your Twitter/X profile (or remove if not applicable)
-- `YOUR_PORTFOLIO_URL` with your portfolio website
-- Add specific hackathon names and achievements in the table
