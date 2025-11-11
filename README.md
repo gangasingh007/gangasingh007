@@ -19,7 +19,7 @@ My journey is driven by curiosity and the thrill of **hackathons**—where I tra
 const ganga = {
   location: "India 🇮🇳",
   currentFocus: "Building enterprise-grade applications with TypeScript",
-  learning: ["ASP.NET Core", "Advanced React Patterns", "AI Integration"],
+  learning: ["ML-Ops", "Advanced React Patterns", "AI Integration"],
   askMeAbout: ["Web Dev", "MERN Stack", "Hackathons", "UI/UX"],
   funFact: "I turn coffee into code and ideas into reality ☕→💻"
 };
@@ -56,8 +56,6 @@ const ganga = {
 
 ### Currently Exploring
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/AI/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
 </p>
@@ -150,9 +148,9 @@ A decentralized application ensuring transparency in charitable donations throug
 
 | 🏆 Event | 📅 Year | 🎖️ Achievement | 💡 Project |
 |---------|--------|---------------|-----------|
-| [Hackathon Name] | 2024 | Winner/Runner-up | Wander AI |
-| [Hackathon Name] | 2024 | Top 10 | SirenEye |
-| [Hackathon Name] | 2024 | Finalist | CharityChain |
+| CosmoHackx | 2025 | Top 10 | Wander AI |
+| HackForRelief | 2025 | Top 10 | SirenEye |
+| CharityChain | 2024 | Ongoing | CharityChain |
 
 </div>
 
@@ -179,7 +177,6 @@ I'm always excited to connect with fellow developers, work on innovative project
   
   <br>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for
   
   
   
