@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&
-  [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google 
 </div>
 
 <br>
