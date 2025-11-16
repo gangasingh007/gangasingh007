@@ -1,191 +1,412 @@
 <div align="center">
+  
+  <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ganga+Singh+%F0%9F%91%8B;Full-Stack+Developer+%26+Innovator;Building+AI-Powered+Solutions;Hackathon+Enthusiast+%F0%9F%8F%86;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ganga+Singh+%F0%9F%91%8B;Full-Stack+Developer+%26+Innovator;Building+AI-Powered+Solutions+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%8F%86;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
+  
+  <br/>
+  
+  <!-- Social Badges with Animation -->
+  <p>
+    <a href="https://github.com/gangasingh007">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://yourportfolio.com">
+      <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+  
+  <!-- Animated Stats Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=gangasingh007&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/gangasingh007?label=Followers&style=for-the-badge&color=00D9FF&logo=github" alt="Followers"/>
+  </p>
+
 </div>
+
+<br/>
+
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=fadeIn"/>
+
+## 🎯 Quick Highlights
 
 <div align="center">
+
+```yaml
+name: Ganga Singh
+located_in: India 🇮🇳
+current_status: B.Tech Computer Science Student
+focus: Full-Stack Development | AI Integration | Blockchain
+available_for: Open Source | Hackathons | Freelance | Collaboration
+
+tech_stack:
+  frontend: [React, TypeScript, Tailwind CSS, Vite]
+  backend: [Node.js, Express, MongoDB, Prisma]
+  exploring: [AI/LLM, Blockchain, DevOps, ASP.NET Core]
+  
+philosophy: "Turn coffee into code ☕ → Transform ideas into reality 💡 → Ship products that matter 🚀"
+```
+
 </div>
 
-<br>
+<br/>
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science student** and **Full-Stack Developer** passionate about crafting innovative solutions that solve real-world problems. With a strong foundation in **MERN stack** and modern web technologies, I specialize in building scalable, user-centric applications.
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation">
 
-My journey is driven by curiosity and the thrill of **hackathons**—where I transform ideas into working products under pressure. From **AI-powered travel assistants** to **blockchain-based charity platforms**, I love pushing boundaries and learning new technologies.
+👨‍💻 **Full-Stack Developer** passionate about crafting **innovative solutions** that solve real-world problems
 
-```javascript
-const ganga = {
-  location: "India 🇮🇳",
-  currentFocus: "Building enterprise-grade applications with TypeScript",
-  learning: ["ML-Ops", "Advanced React Patterns", "AI Integration"],
-  askMeAbout: ["Web Dev", "MERN Stack", "Hackathons", "UI/UX"],
-  funFact: "I turn coffee into code and ideas into reality ☕→💻"
+🏆 **Hackathon Enthusiast** who thrives under pressure—transforming ideas into working products in 24-48 hours
+
+🎓 **Continuous Learner** exploring the intersection of **AI, Web3, and Modern Web Development**
+
+💡 **Problem Solver** with a strong foundation in **MERN stack** and modern web technologies
+
+🌟 **Open Source Advocate** who believes in building in public and sharing knowledge
+
+<br clear="right"/>
+
+### 🎯 What I'm Currently Up To
+
+```typescript
+interface CurrentFocus {
+  building: string[];
+  learning: string[];
+  exploring: string[];
+  collaborating: string[];
+}
+
+const myCurrentFocus: CurrentFocus = {
+  building: [
+    "UniConnect 2.0 - University networking platform with TypeScript & Prisma",
+    "AI-powered web applications with LLM integration"
+  ],
+  learning: [
+    "Advanced React Patterns & Performance Optimization",
+    "ML-Ops & AI Model Deployment",
+    "ASP.NET Core & Enterprise Architecture"
+  ],
+  exploring: [
+    "Blockchain & Smart Contracts",
+    "DevOps & CI/CD Pipelines",
+    "System Design & Scalability"
+  ],
+  collaborating: [
+    "Open-source projects",
+    "Hackathon teams",
+    "Innovative startups"
+  ]
 };
 ```
 
-### 🎯 What I'm Up To
+<br/>
 
-- 🔭 **Building:** UniConnect 2.0 - A comprehensive university networking platform with TypeScript & Prisma
-- 🌱 **Learning:** ASP.NET Core, DevOps practices, and AI/LLM integration patterns
-- 🤝 **Open to:** Collaborating on open-source projects, hackathons, and innovative web applications
-- 💡 **Exploring:** Blockchain technology and decentralized applications
+---
 
-***
+## 💻 Tech Stack & Tools
 
-## 💻 Tech Arsenal
+<div align="center">
 
-### Frontend
+### 🎨 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,redux" alt="Frontend Skills"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase,postgresql" alt="Backend Skills"/>
 </p>
 
-### Currently Exploring
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Tools"/>
+</p>
+
+### 🚀 Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/AI/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
-</p>
+</div>
 
-***
+<br/>
+
+---
 
 ## 🏆 Featured Projects
 
+<div align="center">
+
 ### 🌍 Wander AI
-> **Smart Travel Companion with Conversational AI**
+**Smart Travel Companion with Conversational AI**
 
-An AI-powered travel assistant that generates personalized, editable itineraries and answers travel queries in real-time. Built during a hackathon with seamless browser integration.
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
 
-**Tech Stack:** `React` `TypeScript` `Node.js` `LLM Integration` `Tailwind CSS`
+> An AI-powered travel assistant generating personalized, editable itineraries with real-time travel query responses. Built during CosmoHackx 2025 (🏆 **Top 10**)
 
-**Highlights:**
-- Conversational AI interface for natural trip planning
-- Real-time itinerary generation and customization
-- Google Maps integration for location details
+**Key Features:**
+- 🤖 Conversational AI interface for natural trip planning
+- ✏️ Real-time itinerary generation and customization
+- 🗺️ Google Maps integration for location details
+- 🎨 Seamless browser integration with modern UI
 
-***
+<br/>
+
+---
 
 ### 🚨 SirenEye (A.I.D.R.)
-> **Automated Incident Data Responder for Disaster Management**
+**Automated Incident Data Responder for Disaster Management**
 
-A disaster management platform that triages and prioritizes unstructured incident reports using AI, helping emergency responders make faster, data-driven decisions.
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 
-**Tech Stack:** `Vite + React` `Node.js` `LLM` `Tailwind CSS` `Lucide Icons`
+> AI-powered disaster management platform triaging unstructured incident reports. Built during HackForRelief 2025 (🏆 **Top 10**)
 
-**Highlights:**
-- AI-powered incident prioritization system
-- Professional, themeable UI with dark/light modes
-- Real-time incident processing and categorization
+**Key Features:**
+- 🎯 AI-powered incident prioritization system
+- 🌓 Professional themeable UI with dark/light modes
+- ⚡ Real-time incident processing and categorization
+- 📊 Data-driven decision support for emergency responders
 
-***
+<br/>
+
+---
 
 ### 🎓 UniConnect 2.0
-> **Comprehensive University Networking Platform**
+**Comprehensive University Networking Platform**
 
-An enterprise-level platform connecting students, faculty, and resources. Currently rebuilding with modern tech stack and advanced features.
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 
-**Tech Stack:** `TypeScript` `React` `Prisma` `MongoDB` `Express` `Firebase`
+> Enterprise-level platform connecting students, faculty, and resources with modern architecture
 
-**Highlights:**
-- AI document summarization for study materials
-- Real-time collaboration features
-- Scalable architecture with TypeScript
-- Advanced state management and routing
+**Key Features:**
+- 🤖 AI document summarization for study materials
+- 💬 Real-time collaboration features
+- 🏗️ Scalable architecture with TypeScript
+- 🔐 Advanced authentication and authorization
 
-***
+<br/>
+
+---
 
 ### 💝 CharityChain
-> **Blockchain-Based Transparent Donation Platform**
+**Blockchain-Based Transparent Donation Platform**
 
-A decentralized application ensuring transparency in charitable donations through blockchain technology. Built during a hackathon to solve trust issues in philanthropy.
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" alt="Blockchain"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3"/>
 
-**Tech Stack:** `Blockchain` `Smart Contracts` `React` `Web3.js`
+> Decentralized application ensuring transparency in charitable donations through blockchain
 
-**Highlights:**
-- Immutable donation tracking
-- Smart contract automation
-- Transparent fund allocation
+**Key Features:**
+- 🔗 Immutable donation tracking
+- 🤝 Smart contract automation
+- 💎 Transparent fund allocation
+- 🛡️ Trust through decentralization
 
-***
+</div>
+
+<br/>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gangasingh007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangasingh007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gangasingh007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangasingh007&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  
+  <br/>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangasingh007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gangasingh007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" alt="Contribution Graph"/>
+
 </div>
+
+<br/>
+
+---
+
+## 🎯 Hackathon Journey
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gangasingh007&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+
+| 🏆 Event | 📅 Year | 🎖️ Achievement | 💡 Project | 🔗 Link |
+|:--------:|:------:|:-------------:|:---------:|:-------:|
+| **CosmoHackx** | 2025 | 🥇 Top 10 | Wander AI | [View →](#) |
+| **HackForRelief** | 2025 | 🥇 Top 10 | SirenEye | [View →](#) |
+| **CharityChain** | 2024 | 🚧 Ongoing | CharityChain | [View →](#) |
+
 </div>
 
-***
+<details>
+<summary><b>🎓 Hackathon Philosophy</b></summary>
+<br/>
 
-## 🎯 Hackathon Achievements
+```javascript
+const hackathonApproach = {
+  mindset: "Ship fast, iterate faster",
+  strategy: [
+    "Focus on solving real problems",
+    "Build MVPs that actually work",
+    "Prioritize user experience",
+    "Use familiar tech for speed"
+  ],
+  lessons: [
+    "Time management is crucial",
+    "Team communication = success",
+    "Documentation while coding saves time",
+    "Sleep is important (controversial!)"
+  ]
+};
+```
+
+</details>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
-
-| 🏆 Event | 📅 Year | 🎖️ Achievement | 💡 Project |
-|---------|--------|---------------|-----------|
-| CosmoHackx | 2025 | Top 10 | Wander AI |
-| HackForRelief | 2025 | Top 10 | SirenEye |
-| CharityChain | 2024 | Ongoing | CharityChain |
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gangasingh007&theme=tokyonight" alt="Contribution Graph"/>
 
 </div>
 
-***
+<br/>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon! Building in public and sharing my journey
-<!-- BLOG-POST-LIST:END -->
-
-***
+---
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited to connect with fellow developers, work on innovative projects, or discuss tech over coffee! Whether you're looking for a hackathon teammate, open-source contributor, or just want to chat about the latest in web development—let's connect!
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 💬 Open For
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
+      <br/>
+      <b>Open Source</b>
+      <br/>
+      <sub>Contributions & Collaborations</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="50"/>
+      <br/>
+      <b>Hackathons</b>
+      <br/>
+      <sub>Team Formation & Ideas</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="50"/>
+      <br/>
+      <b>Opportunities</b>
+      <br/>
+      <sub>Internships & Projects</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="50"/>
+      <br/>
+      <b>Tech Talks</b>
+      <br/>
+      <sub>Learning & Sharing</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📬 Reach Out
+
+<p>
+  <a href="https://github.com/gangasingh007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+**💡 "The best way to predict the future is to build it."**
+
+<sub>Let's create something extraordinary together! 🚀</sub>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💖 Support My Work
+
+<p>If you find my projects helpful, consider:</p>
+
+<a href="https://www.buymeacoffee.com/yourprofile">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+<a href="https://github.com/sponsors/gangasingh007">
+  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+</a>
+
+<sub>⭐ Star repositories you find interesting | 🔗 Share with others | 🤝 Contribute to open source</sub>
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
   
- 
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
   
-  **💡 Open to opportunities | 🚀 Available for collaborations | 🎯 Ready for hackathons**
+  <br/>
   
-  <br>
+  <sub>Made with ❤️ and ☕ by Ganga Singh</sub>
   
+  <br/>
   
-  
-  
+  <img src="https://komarev.com/ghpvc/?username=gangasingh007&label=Thanks%20for%20visiting&color=00d9ff&style=flat-square" alt="Thanks"/>
+
 </div>
-
-***
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
-</div>
-
-***
