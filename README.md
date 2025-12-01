@@ -50,7 +50,7 @@ available_for: Open Source | Hackathons | Freelance | Collaboration
 tech_stack:
   frontend: [React, TypeScript, Tailwind CSS, Vite]
   backend: [Node.js, Express, MongoDB, Prisma]
-  exploring: [AI/LLM, Blockchain, DevOps, ASP.NET Core]
+  exploring: [AI/LLM, Blockchain, DevOps]
   
 philosophy: "Turn coffee into code ☕ → Transform ideas into reality 💡 → Ship products that matter 🚀"
 ```
@@ -93,7 +93,6 @@ const myCurrentFocus: CurrentFocus = {
   learning: [
     "Advanced React Patterns & Performance Optimization",
     "ML-Ops & AI Model Deployment",
-    "ASP.NET Core & Enterprise Architecture"
   ],
   exploring: [
     "Blockchain & Smart Contracts",
