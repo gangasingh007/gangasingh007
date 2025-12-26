@@ -190,21 +190,11 @@ class Developer {
 <br/>
 
 <!-- Featured Projects Section -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
-  Featured Projects
-</h2>
 
 <div align="center">
 
 <!-- Project 1 -->
 <a href="https://github.com/gangasingh007/wander-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gangasingh007&repo=wander-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Wander AI"/>
-</a>
-<a href="https://github.com/gangasingh007/sireneye">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gangasingh007&repo=sireneye&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="SirenEye"/>
-</a>
-
 </div>
 
 <br/>
